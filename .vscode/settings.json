@@ -1,0 +1,13 @@
+{
+	"cortex-debug.openocdPath": "/home/pawel/ch32v/toolchain/openocd-riscv/openocd",
+	"C_Cpp.default.compilerPath": "/home/pawel/ch32v/toolchain/8.2.0/bin",
+	"C_Cpp.default.cppStandard": "c++17",
+	"C_Cpp.default.cStandard": "c11",
+	"C_Cpp.default.configurationProvider": "riscv-none-elf",
+	"C_Cpp.default.includePath": [
+		"/home/pawel/ch32v/ch32v203_empty/vendor/Debug",
+		"/home/pawel/ch32v/ch32v203_empty/vendor/Core",
+		"/home/pawel/ch32v/ch32v203_empty/vendor/User",
+		"/home/pawel/ch32v/ch32v203_empty/vendor/Peripheral/inc"
+	]
+}
